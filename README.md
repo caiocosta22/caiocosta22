@@ -1,8 +1,8 @@
 # Hi! 👋
 
-I'm Caio Costa, a passionate software developer, where i specialize in API REST developing.
-Actually i'm working at G2 SISTEMAS, using NODEJS and studying C#(.NET 7) on my own.
-I love work on back-end and i'm studying System Analysis and Development in Estácio de Sá University.
+I'm Caio Costa, a passionate software developer, where i specialize in API REST developing.<br>
+Actually i'm working at G2 SISTEMAS, using NODEJS and studying C#(.NET 7) on my own.<br>
+I love work on back-end and i'm studying System Analysis and Development in Estácio de Sá University.<br>
 
 # ⚡ Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
