@@ -1,8 +1,7 @@
 # Hi! 👋
 
-I'm Caio Costa, a passionate software developer, where i specialize in API REST developing and Front-end Apps.<br>
-Actually i'm working at Alastrar Marketing Agency, using NODEJS, Vue 3 and Quasar framework, actually studying React JS on my own.<br>
-I love work on fullstack developing and i'm studying System Analysis and Development in Estácio de Sá University.<br>
+I'm Caio Costa, a passionate software developer, i'm specialized in API REST development and Front-end Apps.<br>
+Working at Alastrar Marketing Agency, using NODEJS, Vue 3 and Quasar framework, studying React JS on my own and System Analysis and Development in Estácio de Sá University.<br>
 
 # ⚡ Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
